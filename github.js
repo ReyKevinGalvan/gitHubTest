@@ -1,3 +1,0 @@
-// JavaScript Document
-// Testing update
-
